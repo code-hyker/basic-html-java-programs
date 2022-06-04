@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width,initial-scale=1.0">
+<titlt>Phtography</title>
+<style>
+body{background-image:url('https://i.pinimg.com/236x/2c/2e/35/2c2e3564dd6aeeab315e2ae3ed018fe9.jpg');
+     background-size:cover;}
+h2{color:deepink;
+   background-color:aqua;}
+h3.c{color:white;
+     margin-left:50px;}
+h6{color:white;
+  font-family:Monotype Corsiva;
+  font-size:100%;
+  text-align:center;}
+img{width:30%;
+    height:30%;
+margin-left:30px;
+}
+h3{color:deeppink;;
+   font-family:Agency FB;}
+h5{color:white;
+   font-family::ALGERIAN";}
+</style>
+</head>
+<body>
+<pre>
+<h2><b>    HOME          COLORS           HEADERS           PORTFOLIO          BLOG            PAGES         FEATURES</b></h2>
+</pre>
+<h3 class="c"><i>Latest Collections :</i></h3>
+<h6>The latest collection includes the shoots from Las Vegas,London,New York and Bangkok.These are the most popular photo shoots of the year with over a billion views on socual media and other platforms.These photoshoots have also been declared as the most eccentric photoshoots of the decade.</h6>
+<hr>
+<img src="https://www.w3schools.com/howto/img_snow.jpg">
+<img src="https://www.w3schools.com/howto/img_forest.jpg">
+<img src="https://www.w3schools.com/howto/img_mountains.jpg">
+<h5><b><i><u>KEY POINTS FOR A PHOTOSHOOT</u></i></b></h5>
+<h3><i>CLARITY<hr>SHAPE<hr>FORM<hr>PATTERN<hr>COLOR<hr></i></h3>
+</body>
+</html>
